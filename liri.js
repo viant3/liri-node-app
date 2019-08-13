@@ -2,9 +2,9 @@ require("dotenv").config();
 
 var keys = require("./keys.js");
 var axios = require("axios");
-var inquirer = require("inquirer");
 var Spotify = require('node-spotify-api');
 var moment = require("moment");
+var fs = require("fs");
 
 
 var spotify = new Spotify(keys.spotify);
@@ -22,6 +22,8 @@ switch (action) {
     case "spotify-this-song":
         spotifyMe();
         break;
+    case "do-what-it-says":
+        doWhat();
     default:
         break;
 }
@@ -60,7 +62,7 @@ function bandInfo() {
         });
 }
 
-function spotifyMe() {
+function spotifyMe(songName) {
         if(userInput === undefined){
             userInput = "The Sign"
         }
@@ -84,4 +86,12 @@ function spotifyMe() {
         });
 
 }
+
+function doWhat(){
+    fs.readFile('random.txt', "utf8", function(error, data){
+      var txt = data.split(',');
+  
+      spotifyMe(txt[1]);
+    });
+  }
 
