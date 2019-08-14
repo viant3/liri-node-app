@@ -42,7 +42,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
                 *	Rotten Tomatoes Rating
                 
                
-![movie info](/images/movie.jpg)
+![movie info](/images/movie.JPG)
 
 
 
@@ -50,7 +50,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 If no movie is entered, the information for the default movie “Mr. Nobody” will be displayed.
  
 
-![no movie info](/images/nomovie.jpg)
+![no movie info](/images/nomovie.JPG)
 
 **For Artist Concert Venue Dates and Locations from Bands In Town:**
 
@@ -65,7 +65,7 @@ This will search the Bands in Town Artist Events API and output the following in
                 *	Venue location
                 *	Date of the Event 
  
-![concert info](/images/concert.jpg)
+![concert info](/images/concert.JPG)
 
 **For Spotify Song information:**
 
@@ -80,7 +80,7 @@ This will search the Spotify API and output the top 3 results to your terminal/b
                 *	Album Name
                 *	Song Preview URL
 
-![spotify info](/images/spotify.jpg)
+![spotify info](/images/spotify.JPG)
 
 
 **Do what it says:**
@@ -91,9 +91,9 @@ At the command line in bash, if you type
   
 LIRI will read a string of text from a file named random.txt, format the data, and run it as a command in bash. 
  
-![do what it says](/images/dowhat.jpg)
+![do what it says](/images/dowhat.JPG)
 
 
 All search results are being saved to a text file named log.txt.
  
-![log info](/images/log.jpg)
+![log info](/images/log.JPG)
