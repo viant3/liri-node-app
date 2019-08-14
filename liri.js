@@ -14,25 +14,25 @@ var userInput = process.argv[3];
 
 choices(action, userInput);
 
-function choices(action, userInput){
+function choices(action, userInput) {
 
-switch (action) {
-    case "movie-this":
-        movieInfo(userInput);
-        break;
-    case "concert-this":
-        bandInfo(userInput);
-        break;
-    case "spotify-this-song":
-        spotifyMe(userInput);
-        break;
-    case "do-what-it-says":
-        doWhat();
-        break;
-    default:
-        console.log("Something is not right... Try Again")
-        break;
-}
+    switch (action) {
+        case "movie-this":
+            movieInfo(userInput);
+            break;
+        case "concert-this":
+            bandInfo(userInput);
+            break;
+        case "spotify-this-song":
+            spotifyMe(userInput);
+            break;
+        case "do-what-it-says":
+            doWhat();
+            break;
+        default:
+            console.log("Something is not right... Try Again")
+            break;
+    }
 }
 
 function movieInfo(userInput) {
@@ -135,10 +135,10 @@ function doWhat() {
     fs.readFile('random.txt', "utf8", function (error, data) {
 
         var txtArray = data.split(",");
-    
-      
 
-       choices(txtArray[0], txtArray[1]);
+
+
+        choices(txtArray[0], txtArray[1]);
     });
 }
 

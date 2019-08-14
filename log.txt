@@ -1,145 +1,119 @@
-Artist Name: Michael Jackson
-Song Name: Billie Jean
-Album Name: Thriller 25 Super Deluxe Edition
-Song Preview: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=76c7281f527f474a966a0db1ff40c670
+Movie Title: John Wick
+Year movie was released: 2014
+IMDB Rating: 7.4
+Country of Movie Production: USA
+Movie Language: English, Russian, Hungarian
+Movie Plot: An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.
+Movie Actors: Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe
+Rotten Tomatoes Rating: 87%
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Spectrum Center
+Venue Location: Charlotte, NC, United States
+Venue Date: 09/25/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Kentucky Exposition Center
+Venue Location: Louisville, KY, United States
+Venue Date: 09/28/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: VyStar Veterans Memorial Arena
+Venue Location: Jacksonville, FL, United States
+Venue Date: 10/01/2019
+
+************************************************
+Artist: Guns N' Roses,The Cure,The Raconteurs,Asleep at the Wheel,Thom Yorke,Jenny Lewis,Mumford & Sons,Tame Impala,k.flay,the Amazons,Childish Gambino,FIDLAR,Black Pistol Fire,RL Grime,Monsieur Periné,Weyes Blood,Tyler Childers,Madison Beer,Kaytranada,Cherry Glazerr,Houses,TroyBoi,The Comet Is Coming,Jai Wolf,Austin City Limits Festival
+Venue Name: Austin City Limits
+Venue Location: Austin, TX, United States
+Venue Date: 10/04/2019
+
+************************************************
+Artist: Guns N' Roses,The Cure,The Raconteurs,Asleep at the Wheel,Thom Yorke,Jenny Lewis,Mumford & Sons,Tame Impala,k.flay,the Amazons,Childish Gambino,FIDLAR,Black Pistol Fire,RL Grime,Monsieur Periné,Weyes Blood,Tyler Childers,Madison Beer,Kaytranada,Cherry Glazerr,Houses,TroyBoi,The Comet Is Coming,Jai Wolf,Austin City Limits Festival
+Venue Name: Austin City Limits
+Venue Location: Austin, TX, United States
+Venue Date: 10/11/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Exit 111 Festival
+Venue Location: Tennessee, Manchester, United States
+Venue Date: 10/13/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Pinnacle Bank Arena
+Venue Location: Lincoln, NE, United States
+Venue Date: 10/15/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Jalisco Stadium
+Venue Location: Guadalajara, , Mexico
+Venue Date: 10/18/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Not In This Lifetime Tour
+Venue Location: Tijuana, , Mexico
+Venue Date: 10/20/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Chesapeake Energy Arena
+Venue Location: Oklahoma City, OK, United States
+Venue Date: 10/23/2019
+
+************************************************
+Artist: Guns N' Roses,Beck,Interpol,Brandi Carlile,The Lovemakers,The National,Bring Me the Horizon,Bassnectar,Cray,Brutus,Moon Taxi,Ashe,Phantoms,WHIPPED CREAM,The Glitch Mob,Big Gigantic,opiuo,Ducky,Snails,Mobley,Elohim,MISSIO,Temples,Rezz,Young the Giant,Hippo Campus,SHAED,Flamingosis,ZHU,Njomza,The Ghost of Paul Revere,Denzel Curry,Dr. Fresch,Grandson,Duncan Fellows,Peekaboo,Post Malone,iglooghost,Magic City Hippies,Bea Miller,Big Wild,Sun Seeker,Japanese Breakfast,Seratones,Liily,Medasin,MEMBA,Maggie Lindemann,Jai Wolf,Mattiel,Hobo Johnson,Bishop Briggs,Willaris. K,Clairo,K?d,Still Woozy,Voodoo Music + Arts Experience,Sheck Wes,Des Rocs,Pink Sweat$
+Venue Name: City Park
+Venue Location: New Orleans, LA, United States
+Venue Date: 10/25/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Vivint Smart Home Arena
+Venue Location: Salt Lake City, UT, United States
+Venue Date: 10/29/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas, NV, United States
+Venue Date: 11/01/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas, NV, United States
+Venue Date: 11/02/2019
+
+************************************************
+Artist: Guns N' Roses
+Venue Name: Intrust Bank Arena
+Venue Location: Wichita, KS, United States
+Venue Date: 10/07/2019
+
+************************************************
+Artist Name: Ozzy Osbourne
+Song Name: Bark at the Moon
+Album Name: Bark At The Moon (Expanded Edition)
+Song Preview: https://p.scdn.co/mp3-preview/428cbc8109df061b2b6dc9ed65ba4dd2888d8116?cid=76c7281f527f474a966a0db1ff40c670
 
 *********************************************
-Artist Name: Michael Jackson
-Song Name: Beat It - Single Version
-Album Name: Thriller 25 Super Deluxe Edition
-Song Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=76c7281f527f474a966a0db1ff40c670
+Artist Name: Ozzy Osbourne
+Song Name: You're No Different
+Album Name: Bark At The Moon (Expanded Edition)
+Song Preview: https://p.scdn.co/mp3-preview/aeee38dd2dc8b24b7532a923095b7eeb33ddd38b?cid=76c7281f527f474a966a0db1ff40c670
 
 *********************************************
-Artist Name: Michael Jackson
-Song Name: Thriller
-Album Name: Scream
-Song Preview: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Ty Dolla $ign
-Song Name: Hottest In The City
-Album Name: Hottest In The City
-Song Preview: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Song Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Lil Wayne
-Song Name: Scared of the Dark (feat. XXXTENTACION)
-Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Preview: null
+Artist Name: Ozzy Osbourne
+Song Name: Bark at the Moon
+Album Name: The Ozzman Cometh
+Song Preview: https://p.scdn.co/mp3-preview/2d10079072951674fced77c06a664e0bc62d8936?cid=76c7281f527f474a966a0db1ff40c670
 
 *********************************************
 Artist Name: Backstreet Boys
@@ -160,157 +134,13 @@ Album Name: I Want It That Way
 Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=76c7281f527f474a966a0db1ff40c670
 
 *********************************************
-Artist: Rick Ross
-Venue Name: E11even
-Venue Location: Miami, FL, United States
-Venue Date: 08/16/2019
+Movie Title: Mr. Nobody
+Year movie was released: 2009
+IMDB Rating: 7.8
+Country of Movie Production: Belgium, Germany, Canada, France, USA, UK
+Movie Language: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Movie Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 67%
 
 ************************************************
-Artist: Rick Ross
-Venue Name: NOTO Philadelphia
-Venue Location: Philadelphia, PA, United States
-Venue Date: 08/17/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: DAYLIGHT Beach Club
-Venue Location: Las Vegas, NV, United States
-Venue Date: 08/18/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: DAYLIGHT Beach Club
-Venue Location: Las Vegas, NV, United States
-Venue Date: 09/01/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: Centennial Olympic Park
-Venue Location: Atlanta, GA, United States
-Venue Date: 09/07/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: Harbour Convention Centre
-Venue Location: Vancouver, , Canada
-Venue Date: 09/23/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: August Hall
-Venue Location: San Francisco, CA, United States
-Venue Date: 09/25/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Belasco Theater
-Venue Location: Los Angeles, CA, United States
-Venue Date: 09/26/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: House of Blues - Cambridge Room
-Venue Location: Dallas, TX, United States
-Venue Date: 09/29/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Fillmore NOLA
-Venue Location: New Orleans, LA, United States
-Venue Date: 10/01/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: House of Blues Myrtle Beach
-Venue Location: North Myrtle Beach, SC, United States
-Venue Date: 10/03/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Ritz
-Venue Location: Raleigh, NC, United States
-Venue Date: 10/06/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Fillmore Silver Spring
-Venue Location: Silver Spring, MD, United States
-Venue Date: 10/07/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Fillmore - Philadelphia
-Venue Location: Philadelphia, PA, United States
-Venue Date: 10/08/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Phoenix Concert Theatre
-Venue Location: Toronto, , Canada
-Venue Date: 10/11/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Fillmore Detroit
-Venue Location: Detroit, MI, United States
-Venue Date: 10/13/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: Gramercy Theatre
-Venue Location: New York, NY, United States
-Venue Date: 10/15/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: Gramercy Theatre
-Venue Location: New York, NY, United States
-Venue Date: 10/16/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: The Grand Theater at Foxwoods Resort Casino
-Venue Location: Mashantucket, CT, United States
-Venue Date: 10/19/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: LIGHT Nightclub
-Venue Location: Las Vegas, NV, United States
-Venue Date: 08/31/2019
-
-************************************************
-Artist: Rick Ross
-Venue Name: House of Blues Houston
-Venue Location: Houston, TX, United States
-Venue Date: 09/30/2019
-
-************************************************
-Movie Title: The Matrix
-Year movie was released: 1999
-IMDB Rating: 8.7
-Country of Movie Production: USA
-Movie Language: English
-Movie Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
-Movie Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-Rotten Tomatoes Rating: 88%
-
-************************************************
-Artist Name: London Grammar
-Song Name: Hey Now
-Album Name: If You Wait
-Song Preview: https://p.scdn.co/mp3-preview/f8058094338aa2a08bdf070070eb61d4a4e37451?cid=76c7281f527f474a966a0db1ff40c670
-
-*********************************************
-Artist Name: Michael Franti & Spearhead
-Song Name: Hey Now Now
-Album Name: Yell Fire!
-Song Preview: null
-
-*********************************************
-Artist Name: Matt and Kim
-Song Name: Hey Now
-Album Name: New Glow
-Song Preview: null
-
-*********************************************
