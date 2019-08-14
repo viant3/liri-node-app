@@ -12,15 +12,19 @@ var spotify = new Spotify(keys.spotify);
 var action = process.argv[2];
 var userInput = process.argv[3];
 
+choices(action, userInput);
+
+function choices(action, userInput){
+
 switch (action) {
     case "movie-this":
-        movieInfo();
+        movieInfo(userInput);
         break;
     case "concert-this":
-        bandInfo();
+        bandInfo(userInput);
         break;
     case "spotify-this-song":
-        spotifyMe();
+        spotifyMe(userInput);
         break;
     case "do-what-it-says":
         doWhat();
@@ -29,9 +33,9 @@ switch (action) {
         console.log("Something is not right... Try Again")
         break;
 }
+}
 
-
-function movieInfo() {
+function movieInfo(userInput) {
 
     if (userInput === undefined) {
         userInput = "Mr. Nobody";
@@ -67,7 +71,7 @@ function movieInfo() {
         });
 }
 
-function bandInfo() {
+function bandInfo(userInput) {
     axios.get("https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp").then(
         function (response) {
             for (let i = 0; i < response.data.length; i++) {
@@ -92,7 +96,7 @@ function bandInfo() {
         });
 }
 
-function spotifyMe() {
+function spotifyMe(userInput) {
     if (userInput === undefined) {
         userInput = "The Sign"
     }
@@ -132,8 +136,9 @@ function doWhat() {
 
         var txtArray = data.split(",");
     
+      
 
-        spotifyMe(txtArray);
+       choices(txtArray[0], txtArray[1]);
     });
 }
 
