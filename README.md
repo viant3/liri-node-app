@@ -28,7 +28,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
  At the command line in bash, type
 	 
-          *node liri.js movie-this “enter a movie you wish to search within quotes”*
+          node liri.js movie-this “enter a movie you wish to search within quotes”
         
  This will output the following information to your terminal/bash window. 
  
@@ -56,7 +56,7 @@ If no movie is entered, the information for the default movie “Mr. Nobody” w
 
 At the command line in bash, type
 
-	        *node liri.js concert-this “enter an artist you wish to search for within quotes”*
+	        node liri.js concert-this “enter an artist you wish to search for within quotes”
   
 This will search the Bands in Town Artist Events API and output the following information to your terminal/bash window. 
 
@@ -71,7 +71,7 @@ This will search the Bands in Town Artist Events API and output the following in
 
 At the command line in bash, type
 
-	        *node liri.js  spotify-this-song  “enter a song you wish to search for here”*
+	        node liri.js  spotify-this-song  “enter a song you wish to search for here”
   
 This will search the Spotify API and output the top 3 results to your terminal/bash window.  They will be formatted as follows:
 
@@ -87,7 +87,7 @@ This will search the Spotify API and output the top 3 results to your terminal/b
 
 At the command line in bash, if you type
 
-	        *node liri.js do-what-it-says*
+	        node liri.js do-what-it-says
   
 LIRI will read a string of text from a file named random.txt, format the data, and run it as a command in bash. 
  
