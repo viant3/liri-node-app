@@ -10,7 +10,7 @@ var fs = require("fs");
 var spotify = new Spotify(keys.spotify);
 
 var action = process.argv[2];
-var userInput = process.argv[3];
+var userInput = process.argv.slice(3).join(" ");;
 
 choices(action, userInput);
 
@@ -75,7 +75,7 @@ function bandInfo(userInput) {
     axios.get("https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp").then(
         function (response) {
             for (let i = 0; i < response.data.length; i++) {
-
+            
                 console.log("Artist: " + (response.data[i].lineup));
                 console.log("Venue Name: " + (response.data[i].venue.name));
                 console.log("Venue Location: " + (response.data[i].venue.city) + ", " + (response.data[i].venue.region) + ", " + (response.data[i].venue.country));
